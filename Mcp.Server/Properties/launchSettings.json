@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mcp.Server": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
